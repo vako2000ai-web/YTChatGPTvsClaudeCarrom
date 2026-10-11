@@ -1,0 +1,15 @@
+Original Carrom AI Showdown procedural audio
+
+shot / impact / wall / pocket / foul / queen / end / music WAV files are
+generated exclusively by audio.py using sine waves and seeded noise.
+No sampled recordings, copyrighted songs or third-party audio assets are used.
+
+These generated audio assets are dedicated to the public domain under CC0 1.0.
+To the extent a waiver is ineffective, permission is granted to use, copy,
+modify, distribute, perform and synchronize these sounds commercially,
+including monetized YouTube videos, without attribution.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+This dedication applies only to these original procedural audio assets.
+ElevenLabs audio and selected voices remain subject to your provider plan,
+voice permissions and applicable terms. No provider audio ships with the game.

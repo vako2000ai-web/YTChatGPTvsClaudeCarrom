@@ -1,0 +1,8 @@
+# pygame-ce provides the pygame module and Windows Python 3.14 wheels.
+pygame-ce>=2.5.8,<3
+pymunk>=7.3,<8
+openai>=3.28,<4
+anthropic>=1.13,<2
+python-dotenv>=1.2,<2
+pytest>=9.1,<10
+websocket-client>=1.9.2,<2

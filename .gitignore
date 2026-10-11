@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+matches/
+build/
+dist/
+recordings/
+*.spec
+backups/
+releases/
+
+# Local API credentials and diagnostic scripts
+Keys/

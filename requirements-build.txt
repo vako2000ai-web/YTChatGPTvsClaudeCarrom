@@ -1,0 +1,4 @@
+-r requirements.txt
+pyinstaller==6.22.3
+# Local WebSocket protocol integration tests only (not shipped in EXE).
+websockets>=17.2,<18

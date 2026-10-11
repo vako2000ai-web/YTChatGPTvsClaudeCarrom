@@ -1,0 +1,5 @@
+pygame>=2.6,<3
+pymunk>=7,<8
+openai>=2,<3
+anthropic>=0.60
+python-dotenv>=1,<2
